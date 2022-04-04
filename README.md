@@ -1,1 +1,2 @@
-# git_training
+This is a README file.
+Some information ...
